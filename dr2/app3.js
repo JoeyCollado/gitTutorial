@@ -1,0 +1,1 @@
+console.log("directory 2 (not included)")
