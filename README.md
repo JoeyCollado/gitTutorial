@@ -1,2 +1,1 @@
-#MyApp
-this is my app
+#This is where i practiced git commands
